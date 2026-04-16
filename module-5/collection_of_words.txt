@@ -1,0 +1,4 @@
+Java is powerful and Java is useful.
+Programming with Java makes coding fun.
+Collections help store data and remove duplicate words.
+Words can appear more than once, and words should only display once.
